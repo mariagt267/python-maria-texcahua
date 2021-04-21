@@ -1,0 +1,11 @@
+  
+# Maria.Concepcion
+# datos.py
+
+nombre = "GONZALEZ TEXCAHUA MARIA CONCEPCION"
+matricula = "zs18021334"
+carrera = "LSCA"
+
+message = " Nombre: %s \n Matricula: %s \n Carrera: %s"
+print (message%(nombre, matricula, carrera))
+
