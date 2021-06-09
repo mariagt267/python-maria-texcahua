@@ -1,0 +1,32 @@
+body {
+  color: #fff;
+  padding : 10em;
+  margin  : 0;
+  background : #71B0A5;
+  font: bold;
+  font-family: 'Raleway', 'Arial';
+}
+
+label {
+  font : .8em "typewriter", sans-serif;
+}
+
+input.txt{
+    border: 0;
+    padding: 1em;
+    width: 80%;
+    margin-bottom: 2em;
+}
+
+input.btn {
+  position     : absolute;
+
+  padding      : 5px;
+
+  font         : bold .6em sans-serif;
+  border       : 2px solid #333;
+  border-radius: 5px;
+  background   : none;
+
+  cursor       : pointer;
+}

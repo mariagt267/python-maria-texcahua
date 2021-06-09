@@ -1,0 +1,25 @@
+@import  url ( 'https://fonts.googleapis.com/css?family=Raleway:300,700' );
+
+cuerpo {
+    fondo :  # 8C4966 ;
+    acolchado :  10 em ;
+    familia de fuentes :  'Raleway' ,  'Arial' ;
+    color :  # fff ;
+}
+
+entrada . txt {
+    borde :  0 ;
+    acolchado :  1 em ;
+    ancho :  80 % ;
+    margen inferior :  2 em ;
+}
+
+entrada . btn {
+   borde :  0 ;
+   pantalla : bloque;
+   acolchado :  1 em  3 em ;
+   fondo :  # A5F883 ;
+   color :  # 003A61 ;
+   margen inferior :   1 em ;
+   cursor : puntero;
+}

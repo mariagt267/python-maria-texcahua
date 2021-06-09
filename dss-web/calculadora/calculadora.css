@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,700');
+
+body {
+    background: #71BD8A;
+    padding: 3em;
+    font-family: 'Raleway', 'Arial';
+    color: #fff;
+}
+
+#miFormulario{
+    height: 30px;
+    width: 50%;
+    margin: 0px auto;
+    padding: 3em;
+    text-align: center;
+    line-height: 30px;
+}
+
+button {
+    background-color: #97C5A7;
+    color: #fff;
+    width: auto;
+    padding: 10px;
+    border: 1px solid #73B78A;
+    border-radius: 10px;
+}
+
+p {
+font-size: 20px;
+}
